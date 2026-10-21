@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS AI",
+  "description": "Futuristic native Android AI assistant powered by Gemini with voice input, text-to-speech, multilingual support, hardware controls, and local notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

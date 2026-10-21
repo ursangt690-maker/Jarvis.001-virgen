@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JARVIS AI</string>
+    <string name="title_home">JARVIS AI</string>
+    <string name="title_chat">Neural Terminal</string>
+    <string name="title_notes">Memory Bank</string>
+    <string name="title_settings">Core Matrix</string>
+    <string name="status_idle">SYSTEM ONLINE // AWAITING COMMAND</string>
+    <string name="status_listening">AUDIO SENSORS ACTIVE // LISTENING…</string>
+    <string name="status_thinking">SYNAPSE CORE PROCESSING…</string>
+    <string name="status_speaking">VOCAL SYNTHESIZER ACTIVE</string>
+    <string name="status_error">SYSTEM ANOMALY DETECTED</string>
+</resources>
